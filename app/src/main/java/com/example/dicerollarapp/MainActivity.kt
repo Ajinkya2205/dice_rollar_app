@@ -36,10 +36,5 @@ class MainActivity : AppCompatActivity() {
                 img.setImageResource(R.drawable.dice6)
             }
         }
-
-
-
-
-
     }
 }
